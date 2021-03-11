@@ -1,1 +1,9 @@
 # Roadmap
+Inverse mapping keeps an iron grip on experience-races: the inability to cohesively traverse a happy path due to a giant whole in the ground - where a button/push-notif/affordance/animation should be...
+
+1. Day 100: 40 minute short-film auto-compiled into video from a storyboard pulling from research archive, git streaks, demo time trials & tribulations, customer highlights, and plenty of Jim style Zoom smirking beautifully choreographed in MindNode (our favorite mind-map tool). Essentially, it's a mixtape of the most epic freaking 100 days of my life, God willing. God speed. God be my witness: if I fail to keep the streak, I'm going to law school. vis-a-vis :)
+2. Day 99: Team munchies at a SMB that's got our skunk-works GROWTH-A-NATOR-9000 inside.
+3. Day 95: Lightning talks and brown bags hosted on the tools we intentionally created to make it easier than never to append to a topic -- as meta or detailed as your curfew desires.
+4. Day 90: In Digital Ocean's love poem of an S-1: "Profitability is a choice and we choose to self-fund our future." *sniff* <3 Rocksteady team - rocksteady!
+5. Day 80: F-it, start from scratch. (dependent on exponential moving average of our team, impact, & quality performance, health, & self-fulfillment scoring criteria)
+6. Day 50: Celebrate! Not too late though...You will for certain have a more myopic, half-assed, and irrationally mediocre way of being now that you'll encounter the exponential effect of doubt, performance-choke, & deer-lights freeze. It's okay, a stand-up in the morning should clear the side-effects. OKRs extended release every 3 days but please call your mentor if symptoms start to worsen or thoughts of refactoring, drop-tables, or rm -rf show for any period longer than 4H time-frame. We are not held liable for any deviations from the smoothed out RSI. Your rounding functions be advised.   
