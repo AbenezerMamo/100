@@ -14,4 +14,17 @@ Like Daniel Pinkman says, to sell is human. Sales is about moving people and we 
 1. Actively promoting the interests, insights, & humane-centric dialogue that will extend our reach using content marketing, natively extract heuristics that can be public artifacts for learning, and serve as a direct line of communication with future customers, advocates, & well sampled inputs that's always-on.
 2. Facilitating 1:1 and 1:12 design sprints with target customers, industry experts, & user and product-market-fit testing.
 3. Sending weekly newsletters to public stakeholders; bi-weekly performance evaluations; and occasional marketing material needed to bring a prototype to life.
- 
+
+## Dev Ops Ninja
+Pipelines, event logging, automations, analysis-data moat, & service for concept & data-flow testing.
+
+1. Lambda / server-less cloud services with data store, data warehouse, load balancing, interoperable pub-sub, and a solid metrics / event tracking for experimentation & data visualization.
+2. Basic understanding of regression, data integrity and segmentation, and go-to-market strategy for small scale experiments on server-side processing to allow the team to validate scale of results; resilience against randomness; and exploitation of loss or gain functions for specific heuristics that thrive on compounding value data sets.
+3. Ingenious tradeoff and scoping for custom integrations that open doors for on-device computation (iOS), privacy preservation (model leaking, schema scalability, & business and analytics lifecycle)
+
+## The magician
+Create suspension of disbelief. What is the minimum viable prototype? What is the data flow? Aha moment time portal.
+
+1. Leverage iOS Shortcuts, virtual reality, or even Twilio SMS to piece together experiences.....just enough to get a relevant and actionable data point that proves or disproves a hypothesis.
+2. Prototype in React.js & Framer X for storyboarding, usability testing, & validity of user stories.
+3. Use letters in a sequence, 8 bit tiles, & moving pictures (or sound) to put on a Broadway show if we need to so we can ensure that the feelings, sensations, and aura that brings it all together
