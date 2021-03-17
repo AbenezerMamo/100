@@ -7,6 +7,7 @@
 
 ## 3-7
 Read
+1. Went from a single word OKR to laying out a vision, defining a pseudo mission statement, and did some vision setting for myself. "Calm before the storm" and then hopefully some clarity because I have to setup analytics, triage this scratch-pad ideas, and start by setting up an ignore file or something.
 
 ## 7-21
 Define thesis
