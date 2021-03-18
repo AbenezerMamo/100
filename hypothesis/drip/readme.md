@@ -2,6 +2,8 @@
 
 Fish of the year for me is goldfish so you better know this hypothesis came to smile at ya! This morning, I actually gave up on my little tube of toothpaste and then also had to squeeze out all the moisture out of the lotion bottle. I mean, I am not saying it was hard but you know it's been a highlight for 2021. I imagine your favorite bottle of whatever(TM) is why you were late this morning. Well, let's "measure what matters" like Mr. Doer suggests.
 
+### Thank you to the passion, vision, & continued inspiration of the annual student competitions that Shell and folks run that has high school kids pushing 3,300+ MPG on vehicles that are built with the intention of innovating on the aero, tires / thermal, and the engine start-kill sequence that is just so cool. Thanks.
+
 # Welcome to the world of fluid dynamics
 First of all:  The fact that I'm writing about this on Github is clear evidence of my qualifications. Now, let's talk about flow, shearing, and why the smooth and thicc retraction of the liquid inside is the work of science. Oooooo. Literally.
 
