@@ -1,0 +1,9 @@
+# Privacy Preserving
+
+We should be able to appreciate, reward, & applaud the advancement in more integrated, connected, & intelligent systems in the world while still being selfish & protective of the future generation that deserves to do the same.
+
+#### It's a sensitive topic and one that I'm further from in technical understanding so please exercise grace and forgiveness for if the tone sounds a bit critical or unaware. Helps to not deter adding to this.
+
+Privacy preserving technology has the ability to be thrive in an exciting time where Apple's advancement in enclaves for auth & payments; open source enclaves by Dawn Song and other security experts; and the growing conversation around how we'll be able to leverage the power of P2P economies for anyone to compute just 1/whole of the solution or problem. Even more exciting are projects by folks like Oasis Labs that attempt to expose a language that forces developers to consider the cost of data preservation and leverage the hardware capabilities (oss). There are also DARPA projects that area always trying to bring innovation from industry and academia similar to the self-driving car competitions from years ago. It takes a long time to solve hard problems but it requires coming together to make sure market introduction is done in a way that makes it easy for us to not have PR messes along the way that are clear signal that we're going to find further pressure down the road about the pace (there is never a right answer in my opinion; just caution and optimism)
+
+For now, it's important to consider the cultural and historical challenges for engineers building real-world mapping or even recommendation engines where the early adoption of new technology can exacerbate the unintended consequences of our unfortunate, and collectively lessening in affordance, that could cause cross-culture misunderstandings or closer paths of collision.
