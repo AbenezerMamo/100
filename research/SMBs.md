@@ -9,3 +9,7 @@ https://tsbpe.texas.gov/applications-forms/
 https://miapprenticeship.org/admin-resource-cat/apprenticeship-faq-one-pagers/
 https://miapprenticeship.org/process-guide/
 https://miapprenticeship.org/wp-content/uploads/2020/07/mi-apprenticeship-sustainability-plan.pdf (checkout reference section for resources)
+
+
+### interesting questions
+https://www.pewresearch.org/internet/2018/04/17/the-future-of-well-being-in-a-tech-saturated-world/
