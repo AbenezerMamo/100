@@ -2,5 +2,10 @@
 
 ## Resources that are state specific
 
-#### Entrepreneurship leveraging permits, license, & certifications. 
+#### Entrepreneurship leveraging permits, license, & certifications.
 https://tsbpe.texas.gov/applications-forms/
+
+### Other programs
+https://miapprenticeship.org/admin-resource-cat/apprenticeship-faq-one-pagers/
+https://miapprenticeship.org/process-guide/
+https://miapprenticeship.org/wp-content/uploads/2020/07/mi-apprenticeship-sustainability-plan.pdf (checkout reference section for resources)
