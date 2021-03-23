@@ -27,3 +27,36 @@ Oh, nature and the future would be thankful because we can not only waste natura
 It's crucial that you not see this as an idea or an entity. It's an opportunity for you to launch a career in a bold way if you can understand the marketing value & the bragging rights to flex on an initiative that can be entirely funded by the collective direction of kids who want to work hard to learn the hard stuff to make this happen. There needs to exist some secret that will allow us to all win if we can bring together the consumers, producers, and short squeeze market liquidity that keeps the whole thing rational. The only failure is to assume it's in anyone's hand but yours.
 
 That's just about all I know so I'll just dip out...for now
+
+
+## Marketing Screenplay
+Will Smith in a Cab:
+*fiddles with lotion bottle*
+- You know these new bottles are the buzz; you think you can squeeze out all that's in there?
+
+Peter Thiel:
+* grabs the bottle and proceeds to read the back*
+- Yeah, I think I got us from 0 to 1
+
+Will:
+"Actually, you gotta have flow and be able to lay the pipe down in Miami too you know what I'm sayin"
+
+Peter:
+- I'll tell you what, you squeeze all of it out and I'll invest in almonds and the "culturing" process
+
+Will:
+"I'll double it. Have someone have that bottle empty by the end of the day and I'll paint your crib purple"
+
+-Taxi-
+*Taxi driver snatches the bottle and runs out of the car*
+
+Peter:
+- "Well, why did you say that it's got that Viscosity mannnn"
+
+Will:
+- "You gotta be an icon to make this squeeze last." 
+
+-super-cheeses-Jim-take-
+"How do you empty your bottle - Ed shearing or honey drip on ya first?"
+
+Well, I think I'm a better scene scout than a screenwriter. Take 2. Worst case we'll throw 43's old tires for a scenic trip. 
