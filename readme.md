@@ -1,4 +1,4 @@
-# A 100 days to reinvent oneself
+# A 100 days to reinvent oneself, community, and - eventually - the world
 
 ## 0-3
 1. In what is expected to be a inverted change to the driver and target for human prowess: 2021 is the year of driving change with the input in mind, not the out-and-gone (hehe).
