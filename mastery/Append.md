@@ -15,3 +15,13 @@ Ex:
 9) what would the 2 responses back and forth look like as responses to my content from 2-3 authors?
 10) what can I provide as creative collateral to make barrier to "clear context" lower?
 11) can I make it easy to embed the content where it would best be maximizing the screen real estate and the stopping power on a page, feed, or even video frame?
+
+
+# Themes
+Now that it's clear that work is continuous, iterative, and always on our mind, it's time we stop living in systems and declare the delays!!!!
+
+Themes are a lesson I learned from my previous boss who split the week into days where writing and critique sessions were made deliberate with deep work built in (Cal Newport's 2 hour work cycles)
+
+As to not make a fool of myself, I'll simply just focus on the eng related tasks.
+For instance: networking, API, client, or data related work could be batched?
+Who knows, maybe that's a horrible idea because I'm not a professional SWE. Lesson here is themes, not planning! 
