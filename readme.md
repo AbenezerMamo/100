@@ -11,6 +11,8 @@ Read
 ## 7-21
 Define thesis
 
+UPDATE: A lot more reading than thesis deliberation but we do have a first project focus defined! Which I guess means an experiment is likely due soon. Couldn't hear your critique over the sound of progress! This has been really messy and a reality check in a lot of ways but I think it's starting to somewhat come around. 80/20 principle stands. 
+
 ## 21-31
 Create experiment
 
