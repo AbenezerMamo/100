@@ -39,3 +39,20 @@ Beginning with the touch point for the end-customer, a developer in their normal
 
 
 The tangible deliverable can be expected to be distributed to iOS Shortcuts, in-browser JS local executables, or bash scripts with a standardized set of configs for each provisioning need. The assumption that provisioning & separation of network requests will be table-stakes criteria for this tool to be worthwhile to start running. More importantly, given the transient & context accruing nature of dev workflows, the tool should be designed to incentivize periodic participation both for the overall community and their own network; both in computational & subjective governance participation.
+
+#### Double Opt-In Event Lifecycle
+
+A framework we'll borrow from League of Legends is the Team Select mode that allows each player to define their primary & secondary lane preferences before entering queue for matchmaking in multi-player. What we can abstract is the concept of defining lanes as is literal inn League map and swimming. The key difference here is in knowing the strengths & cascading interests of your teammates, network, & intuition applied in mini-critique-tasks always in live invitation.
+
+While the depth & intricate of each relationship can be maximized with more information, it would suffice to apply translated options enumerated with conditional pagination for future optimization. The key driving principle is striving towards equitable & continuously shrinking gradients in context of communication across languages, cultures, & workflow configuration ("The Culture Map").
+Example: Language of choice can make for a great participation facilitation with the intent of eliciting more productive sessions as double-opt ins on repo & profile context accrue. 
+
+## Client - Alice
+
+
+Request:
++ (user) availability in UTC time
+- (following_user_1)
+- (following_user_2)
+
+## Client - Bob
