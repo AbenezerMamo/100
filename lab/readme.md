@@ -60,13 +60,14 @@ The line item that exist as the primary key for each record is anchored by the c
 
 #### Data artifacts
 
+Repository
 1. Commit hash
 2. Parent commit hash
 3. Changed File: Additions
 4. Changed File: Deletions
 5. Commit date
 
-
+Social
 1. Profile Status & Emoji
 2. URL on Profile
 3. Organizations joined
@@ -75,20 +76,6 @@ Request:
 1. The auto-generated commit hash
 2. Commit containing Developer A's invitation: d3ae11d966e0641aac118fab551f1273d400af93
 3. Commit containing Developer B's response: 8f6d669f2788de928799519db1ecaa9cfed0a9f4
-
-
-
-## Client - Alice
-
-Request:
-+ [02:08 PM] (user) availability in 180 Minutes
-+ [02:08 PM] (following_user_1)
-- (following_user_2)
-
-## Client - Bob
-
-Request:
-
 
 ### Possible invocations from activity
 

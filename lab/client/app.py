@@ -1,6 +1,7 @@
 import os
 import sys
 import subprocess
+from time import localtime
 
 """
 Return the current status of the git repo
@@ -21,9 +22,9 @@ except:
 """
 Commits the latest changes
 """
+current = str(localtime())
 for p in sys.path:
-    subprocess.call(['git', 'commit', '-m', p])
-
+    subprocess.call(['git', 'commit', '-m', current])
 
 """
 If destination is set for both fetch & push, expect the username to go into global variable
@@ -33,11 +34,4 @@ subprocess.call(['git', 'remote', '-v'])
 """
 Push the changes
 """
-# subprocess.call(['git', 'push'])
-
-# for p in sys.path:
-#     print(p)
-#
-
-# output = os.popen
-# print(output.read())
+subprocess.call(['git', 'push', ':main'])
