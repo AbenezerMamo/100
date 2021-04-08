@@ -24,7 +24,7 @@ Commits the latest changes
 """
 token = "This is a dark black box with white text. Hello."
 for p in sys.path:
-    subprocess.call(['git', 'commit', '-m', token])
+    subprocess.call(['git', 'commit', '-m', 'hi'])
 
 """
 If destination is set for both fetch & push, expect the username to go into global variable
