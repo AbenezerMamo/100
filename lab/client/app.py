@@ -6,10 +6,10 @@ from time import localtime
 """
 Return the current status of the git repo
 """
-try:
-    subprocess.call(['git', 'status'])
-except:
-    print("Git not initalized")
+# try:
+#     # subprocess.call(['git', 'status'])
+# except:
+#     print("Git not initalized")
 
 """
 Add the local changes to be ready for a commit
@@ -24,14 +24,14 @@ Commits the latest changes
 """
 token = "This is a dark black box with white text. Hello."
 for p in sys.path:
-    subprocess.call(['git', 'commit', '-m', 'hi'])
+    subprocess.call(['git', 'commit', '-m', token])
 
 """
 If destination is set for both fetch & push, expect the username to go into global variable
 """
-subprocess.call(['git', 'remote', '-v'])
+# subprocess.call(['git', 'remote', '-v'])
 
 """
 Push the changes
 """
-subprocess.call(['git', 'push', ':main'])
+subprocess.call(['git', 'push'])
