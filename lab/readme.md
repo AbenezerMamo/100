@@ -45,14 +45,53 @@ The tangible deliverable can be expected to be distributed to iOS Shortcuts, in-
 A framework we'll borrow from League of Legends is the Team Select mode that allows each player to define their primary & secondary lane preferences before entering queue for matchmaking in multi-player. What we can abstract is the concept of defining lanes as is literal inn League map and swimming. The key difference here is in knowing the strengths & cascading interests of your teammates, network, & intuition applied in mini-critique-tasks always in live invitation.
 
 While the depth & intricate of each relationship can be maximized with more information, it would suffice to apply translated options enumerated with conditional pagination for future optimization. The key driving principle is striving towards equitable & continuously shrinking gradients in context of communication across languages, cultures, & workflow configuration ("The Culture Map").
-Example: Language of choice can make for a great participation facilitation with the intent of eliciting more productive sessions as double-opt ins on repo & profile context accrue. 
+Example: Language of choice can make for a great participation facilitation with the intent of eliciting more productive sessions as double-opt ins on repo & profile context accrue.
+
+## The House - API Gateway
+
+> The House operates a set of independent nodes that operate as micro services
+
+1. API Gateway
+2. Event log
+3. Managed crawler service for non Git sites (blog, auth, portfolio)
+4. A task queue for the atomic shared session to record individual metric events that will trigger an aggregation service as a means of clearing the matchmaking & cataloging the session in its respective window and global profile only available utilized for matchmaking
+
+The line item that exist as the primary key for each record is anchored by the commit hash like "d3ae11d966e0641aac118fab551f1273d400af93".
+
+#### Data artifacts
+
+1. Commit hash
+2. Parent commit hash
+3. Changed File: Additions
+4. Changed File: Deletions
+5. Commit date
+
+
+1. Profile Status & Emoji
+2. URL on Profile
+3. Organizations joined
+
+Request:
+1. The auto-generated commit hash
+2. Commit containing Developer A's invitation: d3ae11d966e0641aac118fab551f1273d400af93
+3. Commit containing Developer B's response: 8f6d669f2788de928799519db1ecaa9cfed0a9f4
+
+
 
 ## Client - Alice
 
-
 Request:
-+ (user) availability in UTC time
-- (following_user_1)
++ [02:08 PM] (user) availability in 180 Minutes
++ [02:08 PM] (following_user_1)
 - (following_user_2)
 
 ## Client - Bob
+
+Request:
+
+
+### Possible invocations from activity
+
+1. (user) starred repository [repo]
+2. (user) pushed to [repo] <python>
+3. (user) [repo] forked <repo>
