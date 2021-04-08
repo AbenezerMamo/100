@@ -22,9 +22,9 @@ except:
 """
 Commits the latest changes
 """
-current = str(localtime())
+token = "This is a dark black box with white text. Hello."
 for p in sys.path:
-    subprocess.call(['git', 'commit', '-m', current])
+    subprocess.call(['git', 'commit', '-m', token])
 
 """
 If destination is set for both fetch & push, expect the username to go into global variable
