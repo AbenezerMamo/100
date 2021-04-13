@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "github-api": "^3.4.0",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.7"
+  }
+}
