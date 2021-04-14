@@ -1,10 +1,57 @@
-# What if you could make open source hits like Metro? Trust me, Lopez got thisssss
+### What if you could make open source hits like Metro? Trust me, Lopez got thisssss
+# Git-PAID!
+
+## Designing for tangible outcomes in mind
+In choosing to invest in the developer community, we are explicit expecting it to yield the exponentially recriprocal step-function jumps in cooperative behavior that, if induced to cultivate the wisdom of the crowd, should allow for natural sprouting of efforts like ours. While inspiring you may catalyze some change today, it would be kind and indearing if we could attain fulfilment at the education, training, tooling, or just at the research level. You should expect to find comments in this Product Requirement Document that should outline where there are gaps that we expect our prototypes can help shed light on for academia, industry, and policy makers. That being said, our prototypes and experiments operate with race-horse vision by moving laterally in the end-to-end flow when pivoting as opposed to changing the customer. The most important work to do right is one that we will all have to pass through. We will focus on making your last 2 years of higher education holistically upleveling as you build tacit knowledge, participate in open source development, & exhibit specific behavioral transformations that you can trace across repos, orgs, & communities.
+
+### Diving Deeper into outcome stages
+
+#### Stage 0
+1. Seeding SEO & content marketing improvements
+   1. Portfolio
+   2. Community Contributions (Forums, Tutorials, etc...)
+   3. Blog
+   4. Linkedin
+2. Capturing linearly, however zig-zag, mastery development
+   1. What books are you reading?
+   2. What courses have you taken?
+   3. What events or competitions have you particpated in?
+   4. What class did you recently take?
+   5. What shareable research did you compile?
+
+
+#### Stage 1
+1. Identifying the scope for your intended learning or career path
+   1. Finding the most relevant person to ask a specific, substanstive, question can often be the powerful catalyst for you to build rappor and intimacy with a professional objective but cassual correspondence.
+      1. Sharing latest porfolio additions for critique
+      2. Eliciting critique on resume & cover letter
+      3. Making use of articles, research, or insightful commentary as conversation pieces that you can begin to habitually grow comfortable using as no-pressure "small-talk". This can feel a little bit awkward or cringy but don't misinterpret it for disrespect or promoting disingenous anti-patterns.
+2. Having a collaborative win that surfaces individual performance
+   1. The onus is on you and you alone to clearly, confidently, & proudly paint the gravity & significance of your work when being evaluated by a possible teammate, employer, or coach.
+
+
+#### Stage 2
+There should be some skill based activity here.
+
+
+#### Stage 3
+There should be an interoperable & standardized history of your meaningful & actionable progress towards outcomes.
+
+#### Stage 4
+You should be teaching the next lesson. Aspirationally, having this be part of Skill development in stage 2 would be nice.
+
+#### Stage 5
+Delays in the system. Which ones should we anticipate or make affordances to cushin?
+
+(Very much a work in progress)
+
+
+-----------------------------------------------------------------------------------------------------------
 
 ## Standardizing 0-1
 1. Extract the public data from your profile
 2. Extract the public data from a repo
 3. Ingest the auth-token permissioned routes based on a user's network, repositories, & activity log as to map the fan-out possibilities (who follows you, who you follow, and intra-social-graph network activity)
-
 
 ## What is the importance of distributed, componentized, and verifiable work?
 
