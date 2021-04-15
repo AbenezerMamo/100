@@ -45,3 +45,19 @@ queue.priority_set( {
   verification_sources: 10,
   since_last_request: 12
 })
+
+
+// Properties of exchanges
+// Durable
+
+
+// Transient
+
+
+
+// Managing the profile level changes
+// For users to select from the maximized capacity of rank matched pool of developers, it would be wise to make tradeoffs to independently handle verification requests for transaction stages; process a batch if desirable pool fill-rate requires serving a lower quality but quicker validation batch; and to consider the moving & hopefully declining session windows at each stage. These allow for us to react more in lock-step with behavioral variance introduced over time. More importantly, decentralizing these sevices would only be possible if there are intra-network hops that can optimize routing (similar to side-channels in blockchain) and design with optimistic UI & UX with-in bounds of what human trust can afford us today.
+
+
+// Fanout exchanges
+// What would a developer need to pull before commiting new changes to the network?
