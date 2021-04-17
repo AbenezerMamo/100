@@ -15,9 +15,11 @@ UPDATE: A lot more reading than thesis deliberation but we do have a first proje
 
 ## 21-31
 Create experiment
+> What do I think is going to happen? Just sauce https://youtu.be/g0-F88c6Hrk To not get lost, stay commited so we started a Lab! Live out the lab! cd Prince's Crib
 
 ## 31-50
 Feedback loop
+> Turns out, building a shared layer for my hypothesis experimentation was useful so I chose Git-PAID as the first project to run it through.
 
 ## 50-70
 Measure what matters

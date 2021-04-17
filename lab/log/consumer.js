@@ -54,3 +54,32 @@ LINE_NUMBER : FILE
 COMMIT_STREAKS_BOARD : DATE
 
 */
+
+const redis = require("redis");
+const client = redis.createClient();
+const jsonify = require("jsonify");
+
+client.on("error", function (error) {
+    console.log(error);
+})
+
+client.set("username", "1092labs-crawler", redis.print);
+client.get("username", redis.print);
+
+const repo = "hi";
+client.hset(repo, 100, function(err, reply) {
+
+    console.log(err);
+    if (!err) {
+    console.log(reply);
+    }
+});
+
+client.get(repo, function (err, reply) {
+  console.log(reply);
+  console.log(redis.print);
+});
+// client.get("repo", redis.print);
+
+// wait(3000);
+// client.end(true);

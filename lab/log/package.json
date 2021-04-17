@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "jsonify": "^0.0.0",
+    "redis": "^3.1.1",
     "socket.io": "^4.0.1"
   }
 }
