@@ -1,17 +1,17 @@
-const express = require('express')
-const express-session = require('express-session')
-const app = express()
-const port = 3000
+const app = require('express')()
+const session = require('express-session')
+const redis = require('redis')
+
+
+const publisher = redis.createClient()
+
+
 const http = require('http')
-const Github = require("github-api")
 
 
-var gh = new Github()
+const port = 4000;
 
 user = '1092labs-crawler';
-gh.getUser(user).listNotifications(function(err, repos) {
-console.log(repos)
-});
 
 app.get('/status/:username', (req, res) => {
   name = req.params.username;
@@ -26,17 +26,22 @@ app.get('/add_hook/:id', (req, res) => {
 
 
 app.get('/profile/:username', (req, res) => {
+  var blob = "";
+
   uID = req.params.username;
+
   git_info = http.get("http://api.github.com/users/" + (uID), res => {
-    console.log(app.res)
+    console.log(res);
   });
-  res.format({
-    'application/json': function () {
-    res.redirect('/status/'+ uID)
-  }
-});
+
+  blob = git_info;
+
+  console.log(blob);
+  publisher.set("username", uID, redis.print);
+  publisher.get("username");
+  publisher.publish();
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`Example app listening at http://localhost:${port}`);
 });
