@@ -186,4 +186,68 @@ Pub Sub
 	1. Clients must listen within 15 seconds of having connected
 	2. RECONNECT
 		1. Client will disconnect for 30 sec
-		2. 
+
+
+
+# Chat Commands
+
+1. Followers - Allows moderators to exclude followers who are within the x time period
+	2. 30 Minutes
+	3. 1 or 2 Hours
+	4. 2 Days
+	5. 1 Week
+	6. 3 Months
+/*
+This, while being a very useful feature for moderation, can help us define directional OKRs for our retention goals for users that subscribe to our stream. I was doing some research a while back on iOS app retention and remember the long term being 2 Months that is usually measured. Entirely different products and references for measure (this is a sample of like 5k apps I think). However, there should be power law distributions for streamers like SKT or whatever team is good at whatever game. Generally, a more interesting metric to measure for platforms is the number of {apps, services, subs, activations, installs} or something along those lines (based on some Oculus metrics I heard about and also for Echo). For us, this is mainly important because we'll want to host a variety of end user experiences and touchpoints to figure out the entry point and offramp affordance that will make for the most meaningful and producttive outcome.
+*/
+
+## Commercials
+// Given the ability to 
+
+## Platform stats
+// DigiDay
+15M daily in 2018 estimated
+//AdGuideToTwitch
+2.2M active ccreators per month
+106 minutes per person watch time
+10% of individual streamers account for 95% of the views
+// Personally, you shouldn't take the above to be negative. Typical social networks are 90/9/1 (consume, engage, and create respectively) as of the early days of social. 
+
+# Reawrds
+Rewards can be redeemed by a 3rd party or the viewer in form of Bits that are respresented across the Twitch platform. These can be earned from in-game or stream activity.
+
+
+// Contributions
+1. Bits
+2. Subscriptions
+
+// Reward (item)
+1. Prompt - reward desc.
+
+// Updates
+1. is_user_input_required - wether or not the user needs to provide input to redeem the item
+
+// Cooldowns
+There can e cool downs on the on specific rewards.
+
+Redeemed_at
+// RFC3339 Timestamp of when reward was redeemed
+
+// Hypetrain
+1. total - points towards hypetrain
+2. progress - points at current level
+3. goal - points until next level reached
+4. started_at - when the hype train started
+5. expires_at - when it ends but can be extended by new level unlocks
+
+
+# STreams
+// Types
+1. Live
+2. Playlist
+3. Watch_Party
+4. Premiere
+5. Rerun
+
+
+
