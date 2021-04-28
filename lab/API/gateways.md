@@ -26,3 +26,12 @@ RxJS for timeouts
 
 ### Source
 1. https://docs.nestjs.com/microservices/basics#event-based
+
+## Process Sigma
+1. Process variation relative to requirements
+2. Requirements
+A. Upper tolerance limit
+B. Lower tolerance limit
+
+
+
