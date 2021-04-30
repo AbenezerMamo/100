@@ -23,7 +23,14 @@ Feedback loop
 
 ## 50-70
 Measure what matters
++ Latest pitch on the 100 Day thingy: "It's on me!" Would have the Christian in me out last year if i said "free beer!"
++ Fail condition simplified: If there exists a 101.md file in the journal or there are any changes to the repo after Day 100
++ I worked on having a body that can pick up and enjoy any activity; a heart that won't take anything out on 1. the world 2. another being 3. myself - as it should be: you were none the wiser; and I learned to embrace and embody the person I used to be only with others and began to accept him as someone I choose to grow into now that I know it's possible.
+- Ask a question.
+- *Jurassic Park Shaving Cream* See....
+- "Where the * do I even really start?" - Star Boy #...*yikes* What a time to live alive yo. Let's get it!
 
+* Lab, reading, & all the "functions" should be ready to go. I need to read a lot more than build. So I will try to get back to coding on the 70th. I need inspiration from everywhwere. Staff eng level by Day 80 for sure tho - Top 5. Bet.
 ## 70-80
 Ideate
 
