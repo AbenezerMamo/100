@@ -1,6 +1,6 @@
 # Tuesday May 4th, 2021
 
-root@HackerWay: Fiona
+root@HackerWay: Fiora (reworked)
 
 Let's jump right into it:
 (Continuation from 054)
