@@ -1,0 +1,27 @@
+# Wednesday May 5th, 2021
+
+Today is a new day. Today is an opportunity. Today is a chance to grow into the better version of us.
+
+If you don't already know, I am really impatient about the future. They say the fastest way to see the future is to invent it. At the same time, I learned from the music I enojy and can agree w/ Cole that "history repeats itself."
+
+Back in the 1920s, there was a lot of crazy sh*t going on. People finding out things are made of atoms and wanted to add them up. People starving. People living in wealth creation unlike another.
+In the middle of all this was the highest philanthropic donation, upleveling of the entire medical education & certification standards, & the funding of historically black colleges. Budgets weren't appropriated; where bipartisan aspirations didn't even touch the farming yield & soocial entreprenurship that excited & empowered the pioneers, explorers, & civic servant leaders who ensured that they inspired, excited, & trailblazed humanity out of coming really close to losing grace with ourselves, history, & our Maker.
+
+I like to consider myself "cautiously optimistic" but I'm not afraid to admit that I'm really scared. I know about the stairway to heaven that twisted our tounges, the flood that wiped us out, and the 9 months of suffering that was handed to us as a result of man's mistakes.
+More than anything, I have found myself on the edge of tears and panic at imagining how thin the strings are that manage to hold the world together. What gives me hope is that God also has other favorite kids in this earth too. People cared before me, probably now too, and certainly they will in the future. So, I just do some breathing, and whatever else I need, and start reminding myself that a systems engineer, adverserial game theory designer, & product designer SHOULD be expected to enumerate the pre-mortem and the "real of possibilities" without getting lost in the shoe. This explains why I can brag about how good of a PM I am and then go home to ask my friends for some money to cover rent b/c I totatally forgot that that was due soon and gotta liquidate fiat. Laundry. Taxes. OMG! Alright, I'm just going to hope that you got things covered so i can just focus on the things that I made time, effort, & priority to get good at so I can serve the world with that super specific niche thing.
+
+This year has been pretty tough for me and has been a test of the aspirational morals, empty promises, & unrealized principles that made me really see myself in the most raw, lost, & anxious self. I needed to take what is now almost a year off and I feel really bad for what I didn't get to help or contribute to but I'm just trying to remind myself that the world was still okay. So instead of looking back and feeling ashamed, I am going to try to just make the most out of the 44 Days left to make sure I inspire as many people to go "long" on humanity. SamA says 20 & 100 Year VC aims long too but it's not easy to do b/c you need to not get too rich, too well known, & too good faster than you feel you're ready for. I want to celebrate your growth, wealth, & success but I am so scared that people don't know how much money, influence, & dogma will change them. However, I am not in a place whre I can give advice nor feel like you'll actually listen. So here are a few things you shoudl read:
+
+1. Stages of life by Shakespear (0-7, 7-14, 21-28, 28-35 (most productive human years historically), 35-42, 42-49, 49-56, 56-63, 70, 77, 84 (avg lifespan in the US I think)
+2. Homer's the Odyssey (The Siren)
+3. Thomas Edison's $40k debt to have his Lab funded. Look at the partnerships, collabs, & sponsorship that made it easy for him to just focus on his work.
+4. Geneeral Magic (Apple skunkworks that failed 14 years before the iPhone at building the smartphone)
+5. "Boyhood". I tear up too much when I watch this movie. It's a few min of filming every year over a kid's life and you get to see the actor age as the movie goes on. Beautiful music & story. Not a fan of the ending but whatever. Super interesting.
+6. Firarri v.s. Ford. Then watch the McLaren Senna Top Gear video. You'll see why breaking better can give you an edge.
+7. "Sapiens" & "As a man thinketh". Lots of meaningful stuff but took me a while to read so don't feel like it's just you. see history unfold & learn to see how your mind and thinking shape you (I don't find these to be at oods with my faith but be aware that you will find yourself to be asked to think quite a bit about your belief system as you read these)
+8. "Small Data" This book helped me see have a more humane lens to problem solving at scale by over-indexing at understanding myself and people holistically as opposed to trying to look at the whole world for some inference about purpose, meaning, & value
+9. I heard there's some Stanford research about adolescence and how purpose deals with life, happiness, and success. Too close to what I'm doing so I avoided reading too much about it. So if you find something is overlapped, don't tell me about it.
+10. Lastly, Radio Lab & "You are not so smart" were a really cool podcast I used to listen to. Farming insurance, active information avoidance, Draco's constitutional legal process were intersting topics that came up. I also enjoy a16z's podcast series and found their crypto series on Dai, debt instruments, & social monetization to be informative.
+11. Crypto Twitter for "sir, when moon?"
+
+Make it a good day.
