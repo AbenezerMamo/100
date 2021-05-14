@@ -4,3 +4,6 @@ Today is a new day; let's make it feel welcome! It's present spawns two new conc
 
 Good thru forever,
 Batman on a lean startup diet
+
+### Dear Diary
+It's Day 65 and there are 35 Days left. What pressure? Psssssssii
