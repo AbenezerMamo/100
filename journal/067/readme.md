@@ -8,3 +8,30 @@ Make it a good day; a day to rest; and a blessing for everything and everyone ar
 
 # Dear Diary
 I keep forgetting I'm an engineer and not inspiration. So here's the last link I'll share to help guide you towards education so I can go back to building the tools, mechanisms, & bridges to achieve my goal of earning your mom's trust to make education personalized; the first in history to be tax free other than religion and ....wait....what if there are teachers, history, & and organizations who have an interest in you being your own teacher....???? I want you to build a life that is free of struggle and leave you with my faith just as my parents wished for me and sacrificed so much now to both he alive to hopefully be proud by. But then of course I need to go back to my usual b.s. just in case any parent is trying to tell their kid to be more like me. Pls don't. Can't avoid just wanting to be like me if I don't build a like button. Like...."I didn't know we had a like"
+
+
+# Total Adressable Market: New Hire Rotation
+
+Welcome to 2021 for those of us that are not just horsing around on the internet while spending the day with the board getting paid! *brings back Bond villain bald head pic* Okay, yes yeah I got jokes yeah yeah don't care; was kinda just for the lady to enjoy - not for you to be wasting valuable work time enjoying. I had to pay my dues too; just kind of a 5/100 days kinda guy you know ;) haha! Anyway, yes back to my proposal yes.
+
+Welcome to 2021, and it's still the same day and you now have less employees you can hire not just for this role but in your company and space all together.
+I'm working on actively undermining you by increasing productivity of human's God given right to battle inertia in turn world as we individually pursue excellence, sustainable autonomy, & "work that is in service of..."
+For me, I recently became the barer of fortunate and blessed resolution that came sooner than I ever imagined; the surprising attainable & sufficient price & sprouting of freedom, autonomy, and what can get closer to completion before our identity, faith, and environment is.
+
+Jokingly I looked up Edison's lab and turns out it cost like $40k at the time which obv is worth more now in today's time (likely what startup incubators probably would imagine appropating if this dude could file 1092 patents. We only talk about pre-money valuation so let's make a safe bet and say that if it worked for him, it works for us. Obviously you don't want to be as hated as he is so spare some change for some spam call filters. Yo I got jokes on this guy. Doesn't even know I lived in the same town....oh *
+
+Okay anyway, pricing and sprouting...We'll, I'm not going to insult anyone's frozen record by now so just remember your kids won't be able to say the marshmallow expired; didn't seem to match my efforts in preserving that prize's valuation as that ones offered to other kids who lost it to me; and also the carrot kept the doc away & let me run straight through 2020 vision. "Don't bet against me" is only if you're playing the game. "You in my house" - ?https://keeplearning.learncap.wpengine.com/
+Okay, that's it. I'll get back to work now. I really needed this. Trust me. So bad. Now I'm good for 100 years at least until these kids even comes close. *smirkes in text* Quick find a root and prime...
+
+Now in all seriousness: I freaked it for a Stanford experiment joke so now you have 1 less PM and I AM sorry to tell you you're just gonna have to channel this into the FM (idk...I'm trying too hard at this point)
+
+So now you have 11 more people that can take over for you so you can get back to grilling someone else. 
+
+1. You will have to pay more for the remaining 11 because scarcity & soon to come autonomy and symbiosis with your present self, sustainably
+2. To replace me, it'll take X # of months/years (future prob smirking) and those kids need to be inspired with their own genuine curiosity, genetically induced dad-jokes & maternal love, and cautiously cooperative competitions (hopefully amongst themselves once they beat me. Same snapshot.)
+3. **2** will have lots of other prizes along the way but the only one we all need to positively reinforce & celebrate is showing up everyday for the selves, their community, and eventually the world. Before that, knowning that they're welcome home as themselves is key. (Thank you mom & dad for being literal legends and willing to bet it on me and accept my home even after just recently coming to light with how much grace, village, & forgiveness I've been smoking these past forever. I hope your final and only wish of having my name be sweeter than honey comes true.) This was the true victory for me. Kids: thank you <3
+
+So I would make a left behind joke here but I'm already pushing it and summer is on the way so please let's all wear slippers and stop making me feel weird about my soft hands. Omg. Stop. I had a double chin, tummy, & tics I had to grow out of using excercise, dignified tears, & lots of desires to see a sexier me in the mirror. Don't worry, I am working on being more comfortable sharing the true & super-totally-not-me-over-compensating-4-my-bs. Whatever your reason, I want to help you realize that it's no ones right to ask you to justify why it drives you. How you carry yourself is the behavioral economics, mechanism/systems design, & sociology/infomatics/HCI problems that led me here naturally.
+I don't even get how you don't think I'm offended the 1/100 of me today that will see 100x better version of me tomorrow won't even appreciate how much I loved each part of the ;) Tomorrow is not the final destination, it's a nude so stop looking for a leaf and find the root file system directory. Do you see now why people hate me? It's not for the same reasons you think I swear. My Snap badge logo had "All In" when I was chasing the bottle caps for no reason but to afford 4 seasons a year of what ever the future Haas to offer :)
+
+AFK!
