@@ -2,3 +2,4 @@
 2. (Out of bounds)
 3. Not for higher b/c I don't lower my standards. Just kidding. Got the 1099 man. Lookin for the "whole 100"
 4. Clean up good dawg but still in my own lane
+5. If I turn my skills and abilities into functions, does that mean I get a callback? "cHolla back" > "please say sum"
