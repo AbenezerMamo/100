@@ -1,7 +1,7 @@
 # Intro
 
 # Objective
-
+Functions that return voting results for marketing creative copy, "heat" mapped marketing creatives, and qualified developer leads in a marketplace for desisgn sprint facilitation machmaking targetted at global non-profits, foundational web3 oracle protocols, & American civic projects. The target is Day 80 to get this shipped and in prod
 
 # Context
 
