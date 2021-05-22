@@ -3,3 +3,4 @@
 3. Not for higher b/c I don't lower my standards. Just kidding. Got the 1099 man. Lookin for the "whole 100"
 4. Clean up good dawg but still in my own lane
 5. If I turn my skills and abilities into functions, does that mean I get a callback? "cHolla back" > "please say sum"
+6. I took all 26 and said "all their file systems belong to {structure_type_data}"
