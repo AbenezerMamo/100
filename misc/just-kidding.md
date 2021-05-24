@@ -6,3 +6,4 @@
 6. I took all 26 and said "all their file systems belong to {structure_type_data}"
 7. If that's a wearable, what do we call the other things? An undresss reference &1
 8. What are we having for dinner TK? Software apparently *shrug* Wade exits right as the tags try to bit flip the bucket. Jack?
+9. Yo - then I said corruption isn't a disease, it's just the data pipeline on Elastic sponsored by Rule 15 band
