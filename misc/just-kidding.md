@@ -4,3 +4,5 @@
 4. Clean up good dawg but still in my own lane
 5. If I turn my skills and abilities into functions, does that mean I get a callback? "cHolla back" > "please say sum"
 6. I took all 26 and said "all their file systems belong to {structure_type_data}"
+7. If that's a wearable, what do we call the other things? An undresss reference &1
+8. What are we having for dinner TK? Software apparently *shrug* Wade exits right as the tags try to bit flip the bucket. Jack?
