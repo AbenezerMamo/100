@@ -7,3 +7,6 @@
 7. If that's a wearable, what do we call the other things? An undresss reference &1
 8. What are we having for dinner TK? Software apparently *shrug* Wade exits right as the tags try to bit flip the bucket. Jack?
 9. Yo - then I said corruption isn't a disease, it's just the data pipeline on Elastic sponsored by Rule 15 band
+10. I got toast; rye here(14). Goblin.
+11. Yo, the way you keep tabs, the way you drive tabs, and the way you dab the tabs are all from mother land. Which one? Bothhhhhhhhh Ain't the first time I offend Jewish & Italian people man. It's a long story but it ended up with a book deal, some phone calls, and danger zone kinda vibe that I sanatize faster than the zones you are in. Pfftt wait till you hear about plastic bags, 1099-L(abs) (checkmate.), and my classmates in service that I'm so so so so shamefully avoiding during reunion. *Oh, no big deal, I didn't actually think he could do karate better than me* Correction: it's self expression *nods down*. It's hard to make a name for yourself from where I come from so I just stick to my thing. Love, Sambas and Sambusas
+12. Ask God for some snakes and next thing you know your are hitting a mage wall and drag is up in 20 and you don't know where the blue buff is. The dream.
