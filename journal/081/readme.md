@@ -13,3 +13,31 @@ Let's jump right into it shall we!
 * So now that you as a passenger (read-back) can coast, that now means we have technically a center-left engine (aka Ozil) but you can also play Kros because you have no right-front seat and the rear-back seat is empty right now
 * Ladies and gents, I present to you the uni-car-thing......yea it's kinda like a motorcycle. Whenever I see movies try to stunt on me, I make sure I Stark the * out of the broken glass. So yea, Batmobile is aplicable too.
 * Market? Priceless
+
+
+### New paradigm for 100 Day security
+
+100 contiguous days, consequitive, sequential, subsequent....geez kid get a job
+
+
+### New paradigm for parking lots that can house planes, *cries in Fannie Mae* *Save me Jesus* short-term-housing (less than 2 hours...enough for a sleep ccle and 15 min savings of space)
+
+So.....thank you btw to the O.G.'s doing it in the trailor and also in Valencia outdoor island kitchens for inspiring this daring bold scary step into the unknown
+
+Okay, they used to have incentives for parking lots and land rules and whatever. Listen, I just heard there was some infra work and I figured might as well throw my Vick minted economic mechanisms
+
+### Security from the ground up build for ambient computing
+
+Before C, there was B, and before that....there was a B you dumb moron. *cries in British humor* yea the language had a lot of useful scheduluing & not a file-system ways of handling things. Keeping waaaaayyyy too many tabs open dawg
+
+Oasis, Google, Apple, Mi, & telecoms *pray for me* have to all get on the same page and come up with a new standard the same way we answered to Home Smart Device ecosystem fragmentation with some common sense above TCP/IP layer that is interoperable and cultivating of data ecosystems. As shall we aim to make value storage and exchange interoperable. Trust me, if you read me proposing that idea you better believe I am damn bold enough to see that for all of us. The pat down of a life time. Will fund security audits but eventually there should be some market equilibrium for this
+
+### Greatest price equilibrium that the reasonable driver can attest to
+
+What has 10 cents delta, more cents than my smell of money on me, and can fund your 71 liquidation dreams? It's oi, natural gas, and diesel baby!!! Yea, no we have dino eggs where we are going champ. Just in case you didn't think it was impresssive to have a system where self-serve is literally a trip for some of us. Heh. Yea, they also have more "foot traffic" than your local Starbucks so relax......let's not kill the jobs you worked all the way up today dummy. Let's imagine that they will have a role...
+
+Idk...say.....plastic, trucking, & geo-politics with Canada, *Peace in the Middle East*, Norway, and *add all the scary Diplomacy I'll leave to you*
+
+Now that you made it this far young economist, I dare you to realize that the order book doesn't need to be centralized across all the makers and takers to settle on a price. Shoutout 0x team for "off-chain relax and on-chain settlement" being muscle memory. Thank you for allowing me to be in the room of my heroes whom all cared a great deal about being responsible stewards of this financial revolution. Fun fact I think lots of ex-Coinbase people are great. Many of them have not only been kind but also have been role models in the protocol space. So next time you think about grid on the blockchain, consider that these folks are propbably your only reliable oracle. "Si, si patron" Kids just don't understand that AT&T was with the conceptt IPO and P&G  (or CA equivilant) was still a thing when I was here over a year ago when it was straight up Bladerunner color science magic. Yea, kid utility companies are to be respected. Don't look, read, or tamper. There is 0 tolerance. Appreciate the privilage you have to have that be managed in peace & without fear. The more you learn, the more you apprerciate why the world is a duality.  Even Pablo didn't touch Jesus, soccer, or the DEA. Sometimes, it's the craziest and wildest of us that teach us lessons we can learn to not go through
+
+Thanks everybody & Netflix, and not Big Sean. Let's get to work!
