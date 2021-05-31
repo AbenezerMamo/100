@@ -1,4 +1,4 @@
-# Saturday May 31st, 2021
+# Monday May 31st, 2021
 
 Welcome to a new day; here's an opportunity. Relax, it's okay you don't need to keep stunting that you can use a dictionary too. Ahem. Quotes - whoops. Ahem. What a chance to live for what we want to champion :)
 
@@ -8,3 +8,11 @@ God willing I hope to be left alone by all of the Bible and history, in equally 
 You never really know these days. Goes from salvaging equilibriums- ahem: providing the short squeeze equivalent for behavioral economics -- and making sure to destroy (too much goody-shoe stinking up my game) only as much as I'm willing to stretch a band aid. (there should really be a letter before the h in my opinion)
 
 Also, 1,000x so.....cut straight to the paper chase with no band- aid. *skateboard smacking the air in VTOL brushes* I've been perfecting that one for a while now. The other economists get credibility, paid, and freak it on a book. Don't worry, I've already cemented my place in the history books so swiveling tables need not swivel. Good night!
+
+# Dear Diary
+
+Buzz-kill over here took away an extra free weekend and put on a Monday. All good. Also, "it's harder to be kind than clever" is advice I like to keep in mind. Much more enjoyable for you to go read the context in how that was passed down. Make it a good day!
+
+Also while we're on the topic of buzz...."willingness to buy" is a phrase I find unsettling in this day in age. I imagine the underwriter is more likely to define that. On a more serious note: my research around "access v.s. ownership" over the years has led me to feel a sense of hope at how durable the underlying concept is but I imagine a refresher is needed here and there. This is likely not pain, impact, or "time-to-value reduction" I'll feel in the near term nor would I imagine it would be considered outside the realm of credit. I hate to stack things but I feel like the saturation in market for credit could be fresh appetite for considering this conversation with a 7 or 14 year look ahead (I just did lowest or ARM and 1/2 fixed but not related to morg.). Given the desire to now give power to consumers to dictate how they combine and merge internet services (this doesn't exclude analog / physical / cash), it could be a great way to consider solutions here to be pro-consumer (lower interest; rich and meaningful history; reasonably manageable capital) that aligns with the habitual and usage cycles that are more or less "just-in-time". I should caveat that by saying credit is anything BUT myopic I nature so please see my ignorance as just being new, not disregarding its weight. I say that to defend my assertion of having a non legislative and non-conflict body that can do independent studies with generations continually to keep an eye on how cultural or behavioral changes that are common knowledge in market but leading signals for not only doing away with defaults but cultivate more of this time travel I like (Dixon/a16z point about debt being a vehicle for traveling X years into future, coming back, and hedging accordingly in alignment).
+
+Whew. That's going to take me a bit to unpack because there's a lot there but my cautious tone isn't enough. I don't want to be influencing pain you'll only be cheeering for in the short term; neither of us the wiser. That being said, I do feel it's a good time to stomach something I've been holding inside: "I believe debt is a valuable and worthwhile concept that doesn't come at odds with earned autonomy & liberty. I'll let the dust settle and come back.
