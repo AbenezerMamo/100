@@ -33,9 +33,14 @@ Measure what matters
 * Lab, reading, & all the "functions" should be ready to go. I need to read a lot more than build. So I will try to get back to coding on the 70th. I need inspiration from everywhwere. Staff eng level by Day 80 for sure tho - Top 5. Bet.
 ## 70-80
 Ideate
+- I learned that robots are dumb b/c they are trying to hold me accountable for stuff I don't even know I'll want to be around for. Honestly, I don't really care that better outcomes were made and it was for the better: failing to deliver is the kind of feeling and emotion only humans can understand. I'd say break another one but damn....
++ Still trying to make this whole life-long self-paced continous learning thing kinda work. Luckily, I can let it roll off me like *flick* but sometimes I might be in my feelings about the past so I apologize if the times, progress, & feelings feel at odds. Welcome to leadership.
 
 ## 80-95
 Identify delta
++ Still plan on bailing ship and going in radicaly different path by day 90 though that could mean 100 off, 99 acceptance, 98 ought-to, 97 really?, and 96 "oh, yeah!?" so that's maybe about 12 or 13 days left.
+- Make sure to remember what happens when you make fraction jokes and only start to freak out when you realize you've been counting up the days........*can't decide if to laugh or to sobb so i'll just comic relief*
++ Warn future aspiring streakers to be careful and dwarn them to decide which works best for them as to avoid self-agony or trying to one up me by reversing and then finding it to have the same outcome. Whew. This would never work in short form....*audible tweet giggle*
 
 ## 95-99
 Ask a better question
