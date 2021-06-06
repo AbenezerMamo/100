@@ -36,3 +36,6 @@ Yeah...but do say that it's because of....anything else
 
 Been under a lot recently but understood isn't one that I'm trying to get over anytime soon. If you care, just let things be. I too would like to find joy out of the final 12 days and would hope you understand that I'm not the kind for goodbyes, celebrations, or getting in my feelings (about endings....obv) Here's to us! *raises La Croix & Pax* (Kids, don't do mid west water and healthy paper alternatives!) (Parents: don't tell your kids to be anyone but themselves) (Brands: haha *laughs in LTV & 3 laws of freaking a check on OG things) Okay, enough collective sigh. Go make some change that i can feel wherever I am!
 
+# Dear Diary
+
+The scary book with really scary stories says what ink into this world with the will of God, my heart, & my faith won't falter to the naturalities or realities of today, this world, or everything in between which we've been granted our pervue. That's given me the confidence in caution, restraint in finality, & common sense in euphoria as I let the wit, grit, & (sitting on the 3rd one. This is gonnna be the one i can feel it)...
