@@ -1,0 +1,11 @@
+# Monday June 7th, 2021
+
+Hey again, you. I am not even sure but the old you. Like....the one who would rightfully defend the merit of life's love dilemmas that take priority over s* all over the world; not the fan I wamt to be a fan of. Well, at least I make sure you go take care of it in the enviroments, transitions, & traquility (duaity) that absorbes it best. Then do we come out the dark on some not so light hearted letters in a series; paddling. 21x5 my other other ... of letters. But with that same attitude of saying it at least once (or as the advice goes: you don't know decisions until you make one (not it i guess?). In my desire to NOT be facilitating nor provisioning the depth of the conversations about what they're gaining new confidence in saying: Canvas began as a response to reading 5th Discipline while at Twitter. Hottub, service design, & dialogue were about I got to before I gave us a much needed but poorly timed break from a decade ad campaign. (Harden mode obv so gaining new perspective)
+
+So, what came of it? Your, *all the sponsors, coaches, & homies turn in unison with one brow raised* earned autonomy & carear capital gave you a chance to leverage the fresh inspiration into even trippling down on making small behavioral & tangible interactions be a canvas for bottom-up change that casscades up in step-function like stick. This game is all top right o.0 o.o .same.
+
+Confidence isn't what I can preach but I don't think it's fair that you can say things now for the team that I imagine you'd near tremble for anything else for. Meanwhile, congrats, you've survived life's true test: growing up with adults in corporate America without making any(++/-1) feel like we compelled, propelled, and were even a proponent of it (jk on the last). Now, time to influence them all with the verbiage, linguistic, and ooo now im hungry...
+
+Real culture is one that prizes the sense of ownership, over-the-top quality self-mastery, & a day worth lying about to anyone that asks outside. Out the bird now but not trying to make nesting my control system (da-dum-dishhh)
+
+Well, I think you really stuck it to whomever dare utter that you were trying to convince them of something. History's first marshmellow liability & damages recepient. Inspired by the expiration date: Good Thru Forever! 
