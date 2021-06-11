@@ -32,3 +32,7 @@ The tears shed each closing hour is for the dreams they chase, not the bottom li
 # Fruit Stands
 
 Very happy not lawyer leveraging FDIC insured services that move swiftly across the system. A reminder to us all that fiat onramps for your newly minted coin right off the mining press needs to be propogated across the system. Yep, there are fruit stands unmanaged in banking. Just loan me $50M to innovate in each state and I'll show you a pipeline the DHS will bless. The rest thought a family office was the outcome. God will avenge me defending Uncle Sam. I don't even have kids man...
+
+# *yawns*
+
+What? I'm doing the most important work, what I want, & ensuring change doesn't still keep behind itself for me. That's the greatest blessing of it all. This is what I want to make time for. This is what I'd lose it on. Nice spot here you know? Not an inch less and not 2 meters more. Stay blessed! :)
