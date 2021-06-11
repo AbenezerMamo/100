@@ -28,3 +28,7 @@ In fact, because they've held out for so lomg...they could be extra extra needy 
 The best reward for your employees is the feeling of pride in what they could command to the liberty of service & care. That is what makes a business a true art. All the burden & tribulatons of each moment open all ends with the team getting together to celebrate and close the day off over food, drinks, and a good laugh.
 
 The tears shed each closing hour is for the dreams they chase, not the bottom line or logo on their shirt. As a business owner, you are responsible for funding that dream responsibly & honorably. If not, the market is hungry for talent looking to win together.
+
+# Fruit Stands
+
+Very happy not lawyer leveraging FDIC insured services that move swiftly across the system. A reminder to us all that fiat onramps for your newly minted coin right off the mining press needs to be propogated across the system. Yep, there are fruit stands unmanaged in banking. Just loan me $50M to innovate in each state and I'll show you a pipeline the DHS will bless. The rest thought a family office was the outcome. God will avenge me defending Uncle Sam. I don't even have kids man...
