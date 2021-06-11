@@ -12,3 +12,4 @@
 12. Ask God for some snakes and next thing you know your are hitting a mage wall and drag is up in 20 and you don't know where the blue buff is. The dream.
 13. Now realizing the real run was the sweat along the way. I'm just playing but damn I have been hard at work trying to make a good comeback for any aspiring athlete taking offense of a certain line *ahem* :D Check.
 14. I'm like Wayne without the Bruce. Jet took the biz boomin; "no Li"
+15. Silicon Valley titan raises new round for customer service bussiness called 1ms. We have not heard back for comment; it's been a minute
