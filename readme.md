@@ -48,8 +48,38 @@ Ask a better question
 # 100
 Live change(d)
 
+Thank you for tuning in. I hope you enjoyed & learned something. Please tell history I stopped with "about a week to go -- week to go." 93 days of ment, commitment. I love you Lina. Thanks for breaking my heart. I said it was you or nothing and you thought I was joking. I wasn't. The world got something out of my heart break and my clapback to you to prove that I can indeed - commit. *keyboard flip*
+
 ### TRANSITION PERIOD AFTER 100D
 100 days after March 11th, the start of this project, is June 19th but in realizing the significance of that day it seems more appropriate to make my official last day be June 20th. The expectation is to just do a log twice that day and that's it. The sucess of this project and initative is to show that grit, showing up, & refusing all other prizes but day 100 is what it takes to succeed. No matter what, I will always celebrate and appreciate day 1 version of me who dared to dream big, bold, and vulnerably. Thank you and I hope this becomes a positive lesson for a lifetime about counterfactual thinkng.
 
 #### "You'll never know what it's like to know what you don't know. You'll also never know what it's like to unknow something you already know."
 Ready player 0x
+
+# One last thing...
+
+What my eyes have yet to see; my ears have yet to hear; and my mind yet to fathom. 1000x GDP.
+
+Yesterday, June 20th around 11:45 PM I had the realization that yes we did actually meet our goal & yes it was in front of us the whole time. Here it is:
+
+90% of financial crimes commited against the elderly are done by those in their family. Given wealth transfer being larger single transaction than a F series delay & Airbus/Boeing geopolitical chess match, I figured it would be easier to solve than a Nordic 20-80% guilt trip. Ahem.
+
+Since my decade run in ads, green candle & thicc whicc market karate chop, & 4 letter last name power move over the Trump family and economists...sorry let me get back on track:
+
+Yes. Pacing.
+
+Used to take $1M to afford a Good Year but now it's apparently $2M. By the of my run it might be 2 Satoshi but anyways: the true currency is my 2c USD. Crisp. On the side. Always ready to slide.
+
+Yes. Pacing.
+
+Let's figure out how to do hot & cold better than a Katey Perry single and we might just make the world dance.
+
+Yes. Pacing.
+
+God bless you. God bless America.
+
+
+Forever,
+Good Thru
+
+Est. in Ethiopia (1996)
