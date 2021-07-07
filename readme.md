@@ -1,3 +1,14 @@
+# Follow-Up
+
+Please investigate the CIA and their efforts to stop this project from reaching 100.
+
+I will be leaving the U.S. because I will not stand for their lack of integrity and respect to patriotic contributors to global and American interests. They are commiting treason in my eyes.
+
+Thank you for all you have done for me America. I am sorry this is how it ends for us.
+
+God Bless,
+Abenezer Mamo
+
 # A 100 days to reinvent oneself, community, and - eventually - the world
 
 ## 0-3
