@@ -1,3 +1,23 @@
+# Follow-Up (hopefully final)
+
+Decided to work with the system. Organizations are just people. I haven't gone suit and I'm not entering politics. Just need to antagonize the intelligence community a little bit less.
+
+For what it's worth: I stopped a 93 day streak but came back on the 100th day to deliver on the promise. I still firmly hold the belief the project succeeded in delivering on 1,000x GDP growth.
+
+TL:DR: Stop looking behind you; change
+
+1) Budget pacing for humans & more awareness of in-family elderly financial crimes
+2) Refurbish, replenish, remodel, reuse, etc... Stop looking for the new all the time
+3) Relationship between men and woman has forever changed. Don't lag behind the curve
+4) Show up for humanity. It matters.
+
+Final note to anyone keeping up with my and works in an organization: You're not keeping me from anything. I'm not late to anything. I'm not going somewhere. I don't need or want anything. God bless you <3
+
+Love,
+Abenezer "Abe" Mamo
+
+P.S. I'll remain in the U.S. and solve global problems. I intend on becoming the most legendary American history has yet to witness - God willing. k thx bye :)
+
 # Follow-Up
 
 Please investigate the CIA and their efforts to stop this project from reaching 100.
